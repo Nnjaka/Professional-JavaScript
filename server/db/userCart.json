@@ -1,0 +1,20 @@
+{
+    "amount": 68,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 9,
+            "product_name": "turquoise t-shirt",
+            "price": 34,
+            "quantity": 1,
+            "img_product": "img/product_9.jpg"
+        },
+        {
+            "id_product": 10,
+            "product_name": "white t-shirt",
+            "price": 34,
+            "quantity": 1,
+            "img_product": "img/product_10.jpg"
+        }
+    ]
+}
