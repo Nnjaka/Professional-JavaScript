@@ -1,0 +1,27 @@
+{
+    "amount": 68,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 9,
+            "product_name": "turquoise t-shirt",
+            "price": 34,
+            "quantity": 1,
+            "img_product": "img/product_9.jpg"
+        },
+        {
+            "id_product": 10,
+            "product_name": "white t-shirt",
+            "price": 34,
+            "quantity": 1,
+            "img_product": "img/product_10.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 1,
+            "product_name": "white T-shirt with logo",
+            "price": 30,
+            "imgPath": "img/1.png"
+        }
+    ]
+}

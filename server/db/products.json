@@ -1,0 +1,42 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "white T-shirt with logo",
+    "price": 30
+  },
+  {
+    "id_product": 2,
+    "product_name": "pink blouse",
+    "price": 32
+  },
+  {
+    "id_product": 3,
+    "product_name": "quilted jacket",
+    "price": 52
+  },
+  {
+    "id_product": 4,
+    "product_name": "blouse with a branch print",
+    "price": 35
+  },
+  {
+    "id_product": 5,
+    "product_name": "blouse with a triangular neckline",
+    "price": 33
+  },
+  {
+    "id_product": 6,
+    "product_name": "linen jacket",
+    "price": 48
+  },
+  {
+    "id_product": 7,
+    "product_name": "joggers",
+    "price": 38
+  },
+  {
+    "id_product": 8,
+    "product_name": "white shorts",
+    "price": 31
+  }
+]
