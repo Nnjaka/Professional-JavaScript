@@ -88,10 +88,10 @@ Vue.component('cart', {
                                     <div class="drop_total">Total</div>
                                     <div class="drop_total"><span>$</span>{{ this.cartItems.reduce((summ, item) => summ + item.quantity*item.price, 0) }}</div>
                                 </div>
-                                <a href="checkout.html">
+                                <a href="#">
                                     <div class="drop_button_checkout">Checkout</div>
                                 </a>
-                                <a href="cart.html">
+                                <a href="#">
                                     <div class="drop_button_go">Go&nbsp;to&nbsp;cart</div>
                                 </a>
                             </div>
